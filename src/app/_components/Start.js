@@ -49,10 +49,10 @@ export const Start = () => {
                 <div className='grid pb-20 pt-12 w-auto gap-0 grid-rows-1 '>
                     <div className="text-center w-auto justify-self-center">
                         <h1 className="text-black m-0 w-auto font-bold text-2xl">
-                            <span>Hi, I'm Betsy!</span><br />What can I help you with?
+                            <span>Hi, I&apos;m Betsy!</span><br />What can I help you with?
                         </h1>
                         <div className="mt-6 w-auto">
-                            <div role="radiogroup" className="grid w-auto grid-cols-1 gap-4">
+                            <div className="grid w-auto grid-cols-1 gap-4">
                                 <button aria-checked="false" role="radio" tabindex="0"
                                     className="items-center bg-transparent rounded-lg hover:border-[#108358] hover:border-[6px]
                                  text-black flex flex-row h-16 justify-start text-left w-auto border-[1px] border-[#a4a8a4] text-lg font-bold duration-300 transition-colors">
@@ -84,7 +84,7 @@ export const Start = () => {
                             <div className="w-auto col-start-[25] col-end-13">
                                 <p className="w-auto m-0 p-0 text-black text-center font-bold text-4xl ">400K</p>
                                 <p className="text-[#565d5a] p-0 mt-4 w-auto font-normal text-sm">Customers who chose a Better Mortgage</p></div></div>
-                        <div className="bg-[#f0f7f1] rounded-lg mt-[40px] w-auto text-center p-5"><p className="text-[#565d5a] mr-4 p-0 text-center w-auto font-normal text-lg">After a few questions, you'll unlock:</p>
+                        <div className="bg-[#f0f7f1] rounded-lg mt-[40px] w-auto text-center p-5"><p className="text-[#565d5a] mr-4 p-0 text-center w-auto font-normal text-lg">After a few questions, you&apos;ll unlock:</p>
                             <div className="w-fit mx-auto my-0"><div className="w-auto">
                                 <div className="flex w-auto flex-row">
                                     <div className="items-center flex justify-center w-auto">
