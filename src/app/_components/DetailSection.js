@@ -36,7 +36,7 @@ export const DetailSection = () => {
                                     </div>
                                 </div>
                             </div>
-                            <img alt="First Home" rel="preconnect" loading="lazy" width="200" height="200" decoding="async" className="w-full rounded-md object-cover h-[160px] md:h-[130px]" style={{ color: "transparent" }} src="https://media.better.com/better-com/homepage/learning-center/first-home.webp" />
+                            <Image alt="First Home" rel="preconnect" loading="lazy" width="200" height="200" decoding="async" className="w-full rounded-md object-cover h-[160px] md:h-[130px]" color="transparent" src="/Assets/first-home.webp" />
                         </Link>
                         <Link className="flex w-full max-w-lg cursor-pointer flex-col gap-8 rounded-md bg-[#eef7f1] px-6 py-5 md:flex-row md:[&>img]:h-[100%] md:[&>img]:max-w-[285px] md:gap-10 md:max-w-full md:justify-between md:px-12 md:py-8 lg:flex-1 lg:flex-col lg:basis-1/4 lg:justify-between lg:gap-6 lg:px-12 lg:py-[35px] lg:max-w-lg lg:[&>img]:max-w-none lg:[&:nth-child(2)>*]:flex-1 lg:[&:nth-child(2)>img]:h-[100%] lg:[&:nth-child(2)>img]:max-w-[285px] lg:[&:nth-child(2)]:max-w-none lg:[&:nth-child(2)]:basis-3/5 lg:[&:nth-child(2)]:flex-row lg:[&:nth-child(2)]:gap-10 lg:[&:nth-child(3)>*]:flex-1 lg:[&:nth-child(3)>img]:h-[100%] lg:[&:nth-child(3)>img]:max-w-[285px] lg:[&:nth-child(3)]:max-w-none lg:[&:nth-child(3)]:basis-3/5 lg:[&:nth-child(3)]:flex-row-reverse lg:[&:nth-child(3)]:gap-10" href="/b/one-day-mortgage/">
                             <div class="flex flex-col gap-6">
